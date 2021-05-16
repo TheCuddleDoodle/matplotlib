@@ -31,7 +31,7 @@ import uuid
 import warnings
 
 import numpy as np
-from PIL import Image
+from pil import Image
 
 import matplotlib as mpl
 from matplotlib._animation_data import (
